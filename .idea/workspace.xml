@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="610877f4-7d92-4f43-80e1-faa0feefa808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Biến kiểu dữ liệu toán tử/TH khai bao va su dung bien/Bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biến kiểu dữ liệu toán tử/TH khai bao va su dung bien/Bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biến kiểu dữ liệu toán tử/TH khai bao va su dung bien/Bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biến kiểu dữ liệu toán tử/TH su dung toan tu/Bai tap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biến kiểu dữ liệu toán tử/TH su dung toan tu/Bai tap1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638936142252</updated>
-      <workItem from="1638936143400" duration="5331000" />
+      <workItem from="1638936143400" duration="6506000" />
     </task>
     <servers />
   </component>
