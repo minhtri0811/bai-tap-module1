@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td colspan="4" >
+            <input type="text" id="rs">
+        </td>
+    </tr>
+    <tr>
+        <td><button onclick=" input('(')">(</button></td>
+        <td><button onclick=" input(')')">)</button></td>
+        <td><button onclick=" input('%')">%</button></td>
+        <td><button onclick=" input('AC')">AC</button></td>
+    </tr>
+    <tr>
+        <td><button onclick="input(7)">7</button></td>
+        <td><button onclick="input(8)">8</button></td>
+        <td><button onclick="input(9)">9</button></td>
+        <td><button onclick="input('/')">/</button></td>
+    </tr>
+    <tr>
+        <td><button onclick="input(4)">4</button></td>
+        <td><button onclick="input(5)">5</button></td>
+        <td><button onclick="input(6)">6</button></td>
+        <td><button onclick="input('*')">*</button></td>
+    </tr>
+    <tr>
+        <td><button onclick="input(1)">1</button></td>
+        <td><button onclick="input(2)">2</button></td>
+        <td><button onclick="input(3)">3</button></td>
+        <td><button onclick="input('-')">-</button></td>
+    </tr>
+    <tr>
+        <td><button onclick="input(0)">0</button></td>
+        <td><button onclick="tinhketqua()">=</button></td>
+        <td><button onclick="input('.')">.</button></td>
+        <td><button onclick="input('+')">+</button></td>
+    </tr>
+</table>
+<script>
+    function input(kitu){
+        document.getElementById('rs').value +=kitu;
+    }
+    function input(tinhketqua){
+        let bieuthuc = document.getElementById('rs').value ;
+        document.getElementById('rs').value = eval(bieuthuc);
+    }
+
+</script>
+</body>
+</html>
