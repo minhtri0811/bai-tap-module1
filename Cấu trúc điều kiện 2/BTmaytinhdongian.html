@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td colspan="4"><input type="text" id="ketqua"></td>
+    </tr>
+    <tr>
+        <td><button value="1" onclick="laygiatri(1)">1</button></td>
+        <td><button value="2" onclick="laygiatri(2)">2</button></td>
+        <td><button value="3" onclick="">3</button></td>
+        <td><button value="'+'">+</button></td>
+    </tr>
+    <tr>
+        <td><button value="4">4</button></td>
+        <td><button value="5">5</button></td>
+        <td><button value="6">6</button></td>
+        <td><button value="'-'">-</button></td>
+    </tr>
+    <tr>
+        <td><button value="7">7</button></td>
+        <td><button value="8">8</button></td>
+        <td><button value="9">9</button></td>
+        <td><button value="'*'">*</button></td>
+    </tr>
+    <tr>
+        <td><button value="'C'">C</button></td>
+        <td><button value="0">0</button></td>
+        <td><button value="'='" onclick="laygiatri()">=</button></td>
+        <td><button value="'/'">/</button></td>
+</table>
+<script>
+   function laygiatri(kt) {
+       document.getElementById('ketqua').value += kt;
+   }
+   function tinhgiatri(){
+       let giatri = document.getElementById('ketqua').value;
+       document.getElementById('ketqua')=eval(giatri)
+   }
+</script>
+</body>
+</html>
