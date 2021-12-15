@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="610877f4-7d92-4f43-80e1-faa0feefa808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp DO WHILE/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp FOR/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp WHILE/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp WHILE/Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp lồng nhau/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 2/Bảng cửu trương/bangcuutruong.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +51,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +72,7 @@
       <workItem from="1639402544937" duration="4752000" />
       <workItem from="1639407793625" duration="1302000" />
       <workItem from="1639447764046" duration="644000" />
-      <workItem from="1639530850054" duration="5593000" />
+      <workItem from="1639530850054" duration="6880000" />
     </task>
     <servers />
   </component>
