@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="610877f4-7d92-4f43-80e1-faa0feefa808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/BTmaytinhdongian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu kien 1/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu kien 1/Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu kien 1/Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu kien 1/Bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu kien 1/Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu kien 1/Bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu kien 1/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp DO WHILE/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp FOR/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp WHILE/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp WHILE/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc lặp 1/Thực hành sử dụng vòng lặp lồng nhau/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cấu trúc điều kiện 2/LT bt voi cau truc dieu ken 2/Bai9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +81,10 @@
       <workItem from="1639063222843" duration="251000" />
       <workItem from="1639105399394" duration="17223000" />
       <workItem from="1639357963432" duration="5628000" />
-      <workItem from="1639402544937" duration="513000" />
+      <workItem from="1639402544937" duration="4752000" />
+      <workItem from="1639407793625" duration="1302000" />
+      <workItem from="1639447764046" duration="644000" />
+      <workItem from="1639530850054" duration="5593000" />
     </task>
     <servers />
   </component>
