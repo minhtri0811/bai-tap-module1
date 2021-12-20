@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="dauvao">
+<select id="select1">
+    <option value="a">vnd</option>
+    <option value="b">usd</option>
+</select>
+<select id="select2">
+    <option value="a">vnd</option>
+    <option value="b">usd</option>
+</select>
+<button onclick="lamgido()">convert</button>
+<script>
+    function lamgido(){
+        let giatrivao = document.getElementById('dauvao').value;
+        let select1 = document.getElementById('select1') .value;
+        let select2 = document.getElementById('select2') .value;
+        if(select1==select2){
+            alert(giatrivao);
+        }
+        if(select1=="a" && select2== "b"){
+            alert(giatrivao/24000)
+        }
+    }
+</script>
+</body>
+</html>

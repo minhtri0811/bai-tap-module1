@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="610877f4-7d92-4f43-80e1-faa0feefa808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mảng 1/TH tìm giá trị lớn nhất trong mảng/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hàm 1/TH tạo và gọi hàm/Bai1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -73,7 +73,8 @@
       <workItem from="1639407793625" duration="1302000" />
       <workItem from="1639447764046" duration="644000" />
       <workItem from="1639530850054" duration="7830000" />
-      <workItem from="1639617020956" duration="11595000" />
+      <workItem from="1639617020956" duration="12697000" />
+      <workItem from="1639972352929" duration="323000" />
     </task>
     <servers />
   </component>
