@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="610877f4-7d92-4f43-80e1-faa0feefa808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hàm 2/Chuyen doi gian feet va meters/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hàm 2/LT su dung voi ham 1/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hàm 2/LT su dung voi ham 1/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hàm 2/LT su dung voi ham 1/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI TEST/mini test 2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI TEST/mini test 2/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI TEST/mini test 2/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI TEST/mini test 2/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI TEST/mini test 2/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI TEST/mini test 2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +83,7 @@
       <workItem from="1639530850054" duration="7830000" />
       <workItem from="1639617020956" duration="12697000" />
       <workItem from="1639972352929" duration="5184000" />
-      <workItem from="1640054776852" duration="5443000" />
+      <workItem from="1640054776852" duration="11795000" />
     </task>
     <servers />
   </component>
