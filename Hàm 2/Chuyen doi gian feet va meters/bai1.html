@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<lable for="inputmeters">Meters</lable>
+<input type="number" id="inputmeters" oninput="meters_sang_feet(this.value)">
+<lable for="inputfeet">Feet</lable>
+<input type="number" id="inputfeet" oninput="feet_sang_meters(this.value)">
+<script>
+    function meters_sang_feet(meters){
+        document.getElementById('inputfeet').value = meters*3.279
+    }
+    function feet_sang_meters(feet){
+        document.getElementById('inputmeters').value = feet*0.305
+    }
+</script>
+
+</body>
+</html>
