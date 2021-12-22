@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Circle{
+        radius;
+        constructor(radius) {
+            this.radius = radius;
+        }
+        getRadius(){
+            return this.radius;
+        }
+        setRadius(radius){
+            this.radius = radius;
+        }
+        getArea(){
+            return Math.PI*this.radius*this.radius;
+        }
+    }
+    circle = new Circle(5);
+    let area5 = circle.getArea();
+   document.write('dien tich = ', area5)
+</script>
+</body>
+</html>
