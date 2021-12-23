@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Temperature {
+        triso;
+        constructor(triso) {
+            this.triso = triso;
+        }
+        sangDoF(){
+            return (this.triso*1,8)+32
+        }
+        sangDoK(){
+            return  this.triso + 273.15
+
+        }
+    }
+    let doC = new Temperature(30);
+    let doF = doC.sangDoF();
+    document.write(' do F la : ', doF ,'<br>');
+    let doK = doC.sangDoK();
+    document.write(' do K la : ', doK)
+</script>
+</body>
+</html>
