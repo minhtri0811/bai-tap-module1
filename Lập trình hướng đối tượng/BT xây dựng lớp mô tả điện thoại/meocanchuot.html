@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Meo{
+        name;
+        cannang;
+        constructor(name,cannang) {
+            this.name = name;
+            this.cannang = cannang;
+        }
+
+        getName() {
+            return this.name;
+        }
+
+        setName(value) {
+            this.name = value;
+        }
+
+        getCannang() {
+            return this.cannang;
+        }
+
+        setCannang(value) {
+            this.cannang = value;
+        }
+        can(chuot){
+            this.cannang ++;
+            chuot.setCannang(chuot.getCannang() - 1)
+        }
+    }
+    class Chuot{
+        name;
+        cannang;
+        constructor(name,cannang) {
+            this.name = name;
+            this.cannang = cannang;
+        }
+
+        getName() {
+            return this.name;
+        }
+
+        setName(value) {
+            this.name = value;
+        }
+
+        getCannang() {
+            return this.cannang;
+        }
+
+        setCannang(value) {
+            this.cannang = value;
+        }
+    }
+    let meo1 = new Meo('cat',10);
+    let chuot1 = new Chuot('jely',5);
+    meo1.can(chuot1);
+    document.write(meo1.getName() + ' co can nang la ' + meo1.getCannang()+ '<br>')
+    document.write(chuot1.getName() + ' co can nang la ' + chuot1.getCannang())
+</script>
+</body>
+</html>
