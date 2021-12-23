@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  class Student {
+    name;
+    group;
+    scoreky1;
+    scoreky2;
+    constructor(name,group,scoreky1,scoreky2) {
+      this.socreky2 = scoreky2;
+      this.name = name;
+      this.group = group;
+      this.scoreky1 = scoreky1;
+      this.scoreky2 = scoreky2;
+    }
+
+    getName() {
+      return this.name;
+    }
+
+    setName(value) {
+      this.name = value;
+    }
+
+    getGroup() {
+      return this.group;
+    }
+
+    setGroup(value) {
+      this.group = value;
+    }
+
+    getScoreky1() {
+      return this.scoreky1;
+    }
+
+    setScoreky1(value) {
+      this.scoreky1 = value;
+    }
+
+    getScoreky2() {
+      return this.scoreky2;
+    }
+
+    setScoreky2(value) {
+      this.scoreky2 = value;
+    }
+   xeploai(){
+      let dtk = (this.scoreky1 + this.scoreky2)/2;
+      if (dtk <= 6){
+        return 'Trung Binh'
+      }else if (dtk < 8){
+        return 'Kha'
+      }else {
+        return 'Gioi'
+      }
+   }
+  }
+  let NT1 = new Student('Nam','C1121I1',8,9);
+  let NT2 = new Student('Duc','C1121I1',7,6);
+  let NT3 = new Student('Hung','C1121I1',5,6);
+  document.write('Ten : '+NT1.getName() +' Lop : '+NT1.getGroup()+' Xep Loai : '+ NT1.xeploai()+'<br>')
+  document.write('Ten : '+NT2.getName() +' Lop : '+NT2.getGroup()+' Xep Loai : '+ NT2.xeploai()+'<br>')
+  document.write('Ten : '+NT3.getName() +' Lop : '+NT3.getGroup()+' Xep Loai : '+ NT3.xeploai()+'<br>')
+
+</script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<canvas id="mycanvas" width="300" height="300" style="border: 1px solid blue"></canvas>
+<script>
+  class Rectangle{
+    chieudai;
+    chieurong;
+    constructor(chieudai,chieurong) {
+      this.chieudai = chieudai;
+      this.chieurong = chieurong;
+    }
+    getChieudai() {
+      return this.chieudai;
+    }
+
+    setChieudai(value) {
+      this.chieudai = value;
+    }
+
+    getChieurong() {
+      return this.chieurong;
+    }
+
+    setChieurong(value) {
+      this.chieurong = value;
+    }
+    chuvi(){
+      return (this.chieudai + this.chieurong)*2
+    }
+    dientich(){
+      return this.chieurong*this.chieudai
+    }
+    }
+  let hcn = new Rectangle(200,175);
+  let cv = hcn.chuvi();
+  document.write(' chu vi la ', cv)
+  let dt = hcn.dientich();
+  document.write(' dien tich la ', dt)
+function vehinh(){}
+  let ctx = document.getElementById('mycanvas').getContext('2d');
+  ctx.fillStyle = 'red';
+  ctx.fillRect(50,50,200,175); 
+
+</script>
+</body>
+</html>
