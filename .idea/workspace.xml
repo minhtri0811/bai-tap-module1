@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="610877f4-7d92-4f43-80e1-faa0feefa808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lập trình hướng đối tượng/BT xây dựng lớp mô tả điện thoại/meocanchuot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lập trình hướng đối tượng 2/TH xay dung lop mo phong den pin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lập trình hướng đối tượng/BT phát triển game lái xe/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lập trình hướng đối tượng/BT xây dựng lớp mô tả điện thoại/meocanchuot.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lập trình hướng đối tượng/BT xây dựng lớp mô tả điện thoại/meocanchuot.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -81,7 +83,10 @@
       <workItem from="1640222125817" duration="27000" />
       <workItem from="1640223979061" duration="8009000" />
       <workItem from="1640248961415" duration="80000" />
-      <workItem from="1640251964169" duration="635000" />
+      <workItem from="1640251964169" duration="2059000" />
+      <workItem from="1640260194410" duration="620000" />
+      <workItem from="1640271136746" duration="87000" />
+      <workItem from="1640332874481" duration="2424000" />
     </task>
     <servers />
   </component>
